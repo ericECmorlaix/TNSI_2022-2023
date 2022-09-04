@@ -2,7 +2,7 @@
 site_name: TNSI_2022-2023
 site_description: Numérique et Sciences Informatique en classe de terminal au lycée Notre Dame du Mur de MORLAIX.
 site_author: "Eric MADEC" 
-copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
 site_url: https://ericecmorlaix.github.io/TNSI_2022-2023/
 
 # Dépot du projet 
@@ -112,7 +112,7 @@ extra:
       link: mailto:eric.madec@ecmorlaix.fr
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/TNSI_2021-2022
+      link: https://github.com/ericECmorlaix/TNSI_2022-2023
       name: dépôt github
     - icon: fontawesome/solid/school
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
