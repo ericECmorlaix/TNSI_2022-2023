@@ -1,7 +1,7 @@
 
 ## Avertissement :
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM-1NSI-2022/2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "team-1nsi-20222023@ecmorlaix.fr"){: align=right width=10%}](mailto:team-1nsi-20222023@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mur qui suivent l'enseignement de spécialité Numérique et Sciences Informatiques.
+[![PJ](images/undraw_team_re_0bfe.svg "# TEAM-1NSI-2022/2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_mailbox_re_dvds.svg "team-1nsi-20222023@ecmorlaix.fr"){: align=right width=10%}](mailto:team-1nsi-20222023@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mur qui suivent l'enseignement de spécialité Numérique et Sciences Informatiques.
 <!-- 
 ### Autres liens du groupe :
 
@@ -10,7 +10,7 @@
 
 ***
 
-![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
+![board](images/undraw_scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
