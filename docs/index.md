@@ -15,7 +15,12 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 06/09 :
+## Les 13 et 15/09 : (1h + 2h)
+
+- **Finir** le notebook synthèse de révisions de programmation en Python avec l'application en ligne [futurcoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} et le transmettre par [mail] pour support d'une restitution orale -> ==**Se préparer** pour accompagner un groupe d'élèves de Secondes avec cet outil le mardi 20/09 de 10h à 12h== ; 
+
+***
+## Les 06 et 08/09 : (1h + 2h)
 
 - Redécouvrir les bases de la programmation en Python avec l'application en ligne [futurcoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Se préparer** pour accompagner un groupe d'élèves de Secondes avec cet outil...== ;
 
