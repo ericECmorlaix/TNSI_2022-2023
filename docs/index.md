@@ -15,7 +15,18 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Les 13 et 15/09 : (1h + 2h)
+## Le 22/09 : (2h)
+
+=== "CONTENU DE SÉANCE"
+
+    - [Notion de paradigme de programmation](./)(https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){ .md-button .md-button--primary} -> ==**regarder** rapidement le début de la vidéo et **faire** les activités de révisions associées==
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités de révisions associées à la [Notion de paradigme de programmation impérative structurée et procédurale en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} et les **remettre** par [mail] pour le 27/09 ;
+
+***
+## Les 13, 15 et 20/09 : (1h + 2h + 1h)
 
 - **Finir** le notebook synthèse de révisions de programmation en Python avec l'application en ligne [futurcoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} et le transmettre par [mail] pour support d'une restitution orale -> ==**Se préparer** pour accompagner un groupe d'élèves de Secondes avec cet outil le mardi 20/09 de 10h à 12h== ; 
 
