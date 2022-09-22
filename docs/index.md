@@ -19,11 +19,11 @@
 
 === "CONTENU DE SÉANCE"
 
-    - [Notion de paradigme de programmation](./)(https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){ .md-button .md-button--primary} -> ==**regarder** rapidement le début de la vidéo et **faire** les activités de révisions associées==
+    - [Notion de paradigme de programmation](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){ .md-button .md-button--primary} -> ==**regarder** rapidement le début de la vidéo et **faire** les activités de révisions associées==
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les activités de révisions associées à la [Notion de paradigme de programmation impérative structurée et procédurale en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} et les **remettre** par [mail] pour le 27/09 ;
+    - **Finir** les activités de révisions associées à la [Notion de paradigme de programmation impérative structurée et procédurale en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Notion_de_Paradigmes-Introduction.ipynb#Exercice-:-S%C3%A9rie-de-notes){target=_blank} et les **remettre** par [mail] pour le 27/09 ;
 
 ***
 ## Les 13, 15 et 20/09 : (1h + 2h + 1h)
