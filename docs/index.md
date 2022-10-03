@@ -15,8 +15,23 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 04/10 (1h)
 
-## Le 27/09
+=== "CONTENU DE SÉANCE"
+
+    - Info du [bac](./bac) ;
+
+    - Retour sur le travail demandé (quid de la modularité ?)  ;    
+
+    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
+
+    - **Finir** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
+
+## Le 29/09
 
 === "CONTENU DE SÉANCE"
 
@@ -31,7 +46,7 @@
     - **Poursuivre** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
 
 ***
-## Le 27/09
+## Le 27/09 (1h)
 
 === "CONTENU DE SÉANCE"
 
