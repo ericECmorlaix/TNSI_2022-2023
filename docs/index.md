@@ -14,6 +14,33 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+<!-- ***
+## Le 11/10 (1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} -> ==**Se préparer pour une évaluation en POO le 13/10.**== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+
+=== "TRAVAIL À FAIRE"
+
+    -  -->
+
+***
+## Le 06/10 (2h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Propositions de correction pour l'exercice [Série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Proposition_Exercice_Notes_Complet.ipynb) en programmation impérative et procédurale avec gestion des erreurs ->==Faire le travail de modularisation démandé== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Proposition_Exercice_Notes_Complet.ipynb){ .md-button .md-button--primary}; 
+
+    - **Finir** les activités d'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} et transmettre ce notebook par mail ;​​   
+
+    - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités d'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} et transmettre ce notebook par mail ;   
+
+
 ***
 ## Le 04/10 (1h)
 
@@ -23,21 +50,22 @@
 
     - Retour sur le travail demandé (quid de la modularité ?)  ;    
 
-    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
+    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
 === "TRAVAIL À FAIRE"
 
     - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
 
-    - **Finir** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
+    - **Finir** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
-## Le 29/09
+
+## Le 29/09 (2h)
 
 === "CONTENU DE SÉANCE"
 
     - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
 
-    - Introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
+    - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
 === "TRAVAIL À FAIRE"
 
