@@ -14,16 +14,22 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-<!-- ***
-## Le 11/10 (1h)
+***
+## Les 11, 12 et 13/10 (2h x 2 + 1h)
 
 === "CONTENU DE SÉANCE"
 
-    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} -> ==**Se préparer pour une évaluation en POO le 13/10.**== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+
+    - Structure Linéaire de Données :
+        - [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
+        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb{ .md-button .md-button--primary} ; ;
+        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
+
 
 === "TRAVAIL À FAIRE"
 
-    -  -->
+    - **Se préparer** pour une évaluation sur la POO, les listes chainées et la programmation impérative et procédurale en Python plus généralement pour le 20/10.
 
 ***
 ## Le 06/10 (2h)
