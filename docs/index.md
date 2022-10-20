@@ -15,7 +15,27 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Les 11, 12 et 13/10 (2h x 2 + 1h)
+## Les 20 et 21/10 (2h + 1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse de [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Lucien_Structure_Lineaire-Liste.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Lucien_Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
+    
+    - [Evaluation sur la POO et les listes chainées](./SD/Eval_POO_Liste.pdf){target=_blank}  le 20/10.
+    
+    - Structure Linéaire de Données :
+        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
+        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
+
+    - **Faire** sur copie le Devoir Maison [DM_Pile_File.pdf](./SD/DM_Pile_File.pdf){target=_blank}  ;
+
+***
+## Du 11 au 18/10
 
 === "CONTENU DE SÉANCE"
 
