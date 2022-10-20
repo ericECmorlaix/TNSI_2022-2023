@@ -14,6 +14,9 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+<!-- ***
+Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour Noël... -->
+
 ***
 ## Les 20 et 21/10 (2h + 1h)
 
@@ -32,7 +35,7 @@
     
     - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
 
-    - **Faire** sur copie le Devoir Maison [DM_Pile_File.pdf](./SD/DM_Pile_File.pdf){target=_blank}  ;
+    - **Faire** sur copie le Devoir Maison [DM_Pile_File.pdf](./SD/DM_Pile_File.pdf){target=_blank} pour le 07/11 ;
 
 ***
 ## Du 11 au 18/10
