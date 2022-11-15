@@ -71,6 +71,7 @@ Pour chacune des commandes suivantes, indiquer la réponse obtenue.
 ### Exercice 2 :
 L'instruction `l1 = cons(6, cons(1, cons(7, nil)))` définit la liste `l1`.
 Donner les définitions des listes `l2`, `l3` et `l4` à l’aide des fonctions `cons` et `queue` et en réutilisant les listes déjà définies pour définir les suivantes :
+
 1. `l2` = queue(l1)
 2. `l3` = cons(3, cons(5, l1))
 3. `l4` = cons(8, l3)
