@@ -22,7 +22,7 @@ Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour No�
 === "CONTENU DE SÉANCE"
 
     - **Finir** la [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recursif.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
-    - **Analyser** la proposition de correction du notebook [Liste](./Structure_Lineaire-Liste-Complet)(https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste-Complet.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste-Complet.ipynb){ .md-button .md-button--primary} ;    
+    - **Analyser** la proposition de correction du notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste-Complet.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste-Complet.ipynb){ .md-button .md-button--primary} ;    
     - **Lire** la [proposition de correction](./SD/Corrections-Evaluation_POO-DM_Liste) de l'évaluation de POO et **Compléter** celle sur les listes chainées ;
     - **Lire** la [correction](./SD/Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
     - Synthèse [programmation récursive](https://glassus.github.io/terminale_nsi/T2_Programmation/2.2_Recursivite/cours/){target=_blank} et [structure linéaire Liste, Pile et File](https://glassus.github.io/terminale_nsi/T1_Structures_de_donnees/1.1_Listes_Piles_Files/cours/){target=_blank} ;
