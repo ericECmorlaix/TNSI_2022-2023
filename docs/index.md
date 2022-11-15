@@ -31,6 +31,7 @@ Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour No�
 === "TRAVAIL À FAIRE"
     
     - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Récursif](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recursif.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
+    - **Se préparer** pour une évaluation sur la programmation récursive, les structures de donnée Piles et Files et la programmation en Python plus généralement pour le 17/11.
 
 ***
 ## Le 10/11
