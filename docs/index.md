@@ -16,6 +16,32 @@
 
 <!-- ***
 Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour Noël... -->
+
+
+## Le 18/11 :
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation pratique appliquées aux [tours de Hanoï partie A](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/ds2-Partie_Pratique_A.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/ds2-Partie_Pratique_A.ipynb){ .md-button .md-button--primary} ;
+    - Evaluation pratique : [une tortue récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Une_tortue_recursive.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Une_tortue_recursive.ipynb){ .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Reprise en main d'[ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+    - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Récursif](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recursif.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
+
+***
+## Le 17/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur la programmation récursive, les structures de donnée Piles et Files et la programmation en Python plus généralement ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Récursif](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recursif.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
+    
+
 ***
 ## Le 15/11
 
@@ -26,7 +52,6 @@ Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour No�
     - **Lire** la [proposition de correction](./SD/Corrections-Evaluation_POO-DM_Liste) de l'évaluation de POO et **Compléter** celle sur les listes chainées ;
     - **Lire** la [correction](./SD/Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
     - Synthèse [programmation récursive](https://glassus.github.io/terminale_nsi/T2_Programmation/2.2_Recursivite/cours/){target=_blank} et [structure linéaire Liste, Pile et File](https://glassus.github.io/terminale_nsi/T1_Structures_de_donnees/1.1_Listes_Piles_Files/cours/){target=_blank} ;
-
 
 === "TRAVAIL À FAIRE"
     
