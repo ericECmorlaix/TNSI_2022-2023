@@ -35,7 +35,7 @@ Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour No�
         - [https://sqlzoo.net/wiki/SQL_Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
-
+    - A partir du 1er décembre et jusqu’au 25 décembre, 2 énigmes de programmation sont à résoudre par jour sur [adventofcode.com](https://adventofcode.com/2022){target=_blank} ([Voir les conseils de Gilles LASSUS pour Advent Of Code](https://glassus.github.io/terminale_nsi/T7_Divers/9_AOC/cours/){target=_blank}) ;
     - **Reprendre** en main d'[ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
@@ -50,6 +50,7 @@ Synthèse Pile et File le 08/11 puis SQL puis récursivité avec dessin pour No�
 
 === "TRAVAIL À FAIRE"
 
+    - A partir du 1er décembre et jusqu’au 25 décembre, 2 énigmes de programmation sont à résoudre par jour sur [adventofcode.com](https://adventofcode.com/2022){target=_blank} ([Voir les conseils de Gilles LASSUS pour Advent Of Code](https://glassus.github.io/terminale_nsi/T7_Divers/9_AOC/cours/){target=_blank}) ;
     - **Reprendre** en main d'[ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
