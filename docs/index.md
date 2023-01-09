@@ -27,6 +27,8 @@
 
     - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Arborescente.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Arborescente.ipynb){ .md-button .md-button--primary} ;
 
+    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf) ;
+
 === "TRAVAIL À FAIRE"
     - **Rendre** les travaux de mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
     - **Reprendre** en main d'[ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
